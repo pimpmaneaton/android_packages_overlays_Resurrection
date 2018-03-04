@@ -32,7 +32,7 @@
         <item name="android:colorAccent">@*android:color/accent_device_default_dark</item>
         <item name="android:colorEdgeEffect">#ffffffff</item>
         <item name="android:colorSecondary">@*android:color/black</item>
-        <item name="android:colorControlNormal">@*android:color/accent_device_default_dark</item>
+        <item name="android:colorControlNormal">#b3ffffff</item>
         <item name="android:navigationBarColor">@*android:color/black</item>
         <item name="android:textColorPrimaryInverse">@*android:color/black</item>
         <item name="android:dialogTheme">@*android:style/Theme.Material.Settings.BaseDialog</item>
@@ -138,7 +138,7 @@
         <item name="android:colorPrimaryDark">@*android:color/black</item>
         <item name="android:colorSecondary">@*android:color/black</item>
         <item name="android:colorAccent">@*android:color/accent_device_default_light</item>
-        <item name="android:colorControlNormal">@*android:color/accent_device_default_dark</item>
+        <item name="android:colorControlNormal">#b3ffffff</item>
         <item name="android:colorBackground">@*android:color/black</item>
         <item name="android:dialogTheme">@*android:style/Theme.Material.Settings.BaseDialog</item>
         <item name="android:alertDialogTheme">@*android:style/Theme.Material.Settings.Dialog.BaseAlert</item>
